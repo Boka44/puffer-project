@@ -4,7 +4,7 @@ A real-time dashboard that tracks and displays the pufETH/ETH conversion rate fr
 
 ## Project Overview
 
-I set up a simple microservice that calls and stores the conversion rate in a local db. I used my usual go-to folder setup, although sometimes I version my APIs as well.
+I set up a simple microservice that calls and stores the conversion rate in a local db. I used my usual go-to folder setup, although sometimes I version my APIs as well. One other habit I like is adding all db related methods to the model, but this is a simple microservice.
 
 ## Project Structure
 

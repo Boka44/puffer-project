@@ -10,7 +10,7 @@ I set up a simple microservice that calls and stores the conversion rate in a lo
 
 ```
 .
-├── contracts/         # Smart contract interactions
+├── contracts/        # Smart contract interactions
 ├── api/              # Backend microservice
 │   ├── models/       # MongoDB models
 │   ├── controllers/  # API controllers
@@ -111,8 +111,8 @@ This structure could be beneficial depending on the app's complexity and team pr
 ```
 frontend/
 ├── src/
-│   ├── components/      # Reusable components
-│   ├── features/        # Feature-based modules
+│   ├── components/     # Reusable components
+│   ├── features/       # Feature-based modules
 │   ├── pages/          # Page components
 │   ├── routes/         # Route configurations
 │   ├── services/       # External service integrations
